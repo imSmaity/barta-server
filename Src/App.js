@@ -31,6 +31,6 @@ io.on('connection',(socket)=>{
     })
 })
 
-server.listen('3001',()=>{
+server.listen('bartaserver2.herokuapp.com',()=>{
     console.log("Server started...")
 })
